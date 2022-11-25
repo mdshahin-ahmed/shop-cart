@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "07",
+    "name": "ZEBRONICS Zeb-Reaper 2.4GHz Wireless Gaming Mouse",
+    "picture": "https://drive.google.com/uc?export=view&id=1HhgU8ogBOZklbJgED6JDiDaT6tCEQZgU",
+    "price": "1,599.00",
+    "discount": 40
+  },
+  {
+    "_id": "08",
+    "name": "Zebronics Zeb-Transformer-k USB Gaming Keyboard | RGB LED lighting",
+    "picture": "https://drive.google.com/uc?export=view&id=1ZTSMVZ7SyoBKY_gqigsCaXO3FzpYQ7Ge",
+    "price": "999.00",
+    "discount": 36
+  },
+  {
+    "_id": "09",
+    "name": "TP-Link Powered USB Hub with 7 Data Smart Charging hub",
+    "picture": "https://drive.google.com/uc?export=view&id=1CkPmlqY3SB8sZfCFGkwIK1fZwbx34UFQ",
+    "price": "1,999.00",
+    "discount": 36
+  },
+  {
+    "_id": "10",
+    "name": "Scarters Mouse Pad, Deskmat Extended for Work from Home/Office/Gaming",
+    "picture": "https://drive.google.com/uc?export=view&id=1l5st44gfQqdsNjZs84n5qOXoxDwhS13H",
+    "price": "1,599.00",
+    "discount": 30
+  },
+  {
+    "_id": "11",
+    "name": "HyperX Streamer Starter Pack (HBNDL0001), Black",
+    "picture": "https://drive.google.com/uc?export=view&id=1oLlcf8MT7YrIVOtXmAvGIoFaW1CLSABE",
+    "price": "11,599.00",
+    "discount": 26
+  }
+]

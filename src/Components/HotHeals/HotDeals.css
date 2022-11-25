@@ -1,0 +1,26 @@
+.hotDealsText {
+  text-align: start;
+  align-self: center;
+}
+.hotDealsText h1 {
+  font-weight: normal;
+  font-size: 96px;
+}
+.hotDealsText h1 span {
+  font-weight: bold;
+  color: #ffae5d;
+}
+.hotDealsProducts h3 {
+  text-align: left;
+  padding-bottom: 10px;
+  border-bottom: 2px dashed #ffae5d;
+}
+.hotDealsProdictFooter {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-top: auto;
+}
+.hotDealsProdictFooter .off {
+  color: #ffae5d;
+}

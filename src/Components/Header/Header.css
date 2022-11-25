@@ -1,0 +1,54 @@
+.headerTopSection {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.headerTopSection h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.headerTopSection h3 span {
+  font-weight: normal !important;
+}
+.signIn i {
+  background: black;
+  padding: 3px;
+  border-radius: 50%;
+  height: 24px;
+  width: 24px;
+  color: white;
+  margin-right: 5px;
+}
+.location {
+  background-color: #ffae5d;
+  padding: 10px;
+  border-radius: 15px;
+}
+.location i {
+  margin-right: 5px;
+}
+.serarchBoxWrap input {
+  width: 300px;
+  border: 1px solid #808080;
+  border-radius: 10px;
+  background-color: transparent;
+  padding: 6px 0px;
+  align-self: center;
+}
+.serarchBoxWrap input::placeholder {
+  padding-left: 10px;
+}
+.serarchBoxWrap {
+  display: flex;
+  /* }
+.searchBoxWrap i {
+  padding-left: -30px; */
+}
+.navSection {
+  text-align: start;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.navSection span {
+  padding-right: 16px;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "01",
+    "name": "Inalsa Air Fryer Fry-Light-1400W",
+    "picture": "https://drive.google.com/uc?export=view&id=1CICIzNM7lx7SlwwdMfq8FJMhau6RN7ma",
+    "price": "4,627.00",
+    "discount": 40
+  },
+  {
+    "_id": "02",
+    "name": "Oneplus Bullets Z2 Bluetooth Wireless",
+    "picture": "https://drive.google.com/uc?export=view&id=1CuhprKitoV9rUDvmIDDQ4PCr7eLiiZUt",
+    "price": "1,699.00",
+    "discount": 26
+  },
+  {
+    "_id": "03",
+    "name": "New Fastrack Reflex Play|AMOLED Display",
+    "picture": "https://drive.google.com/uc?export=view&id=1tbKEQdoPpoMEWysFQUSeg3ZxzachVkNH",
+    "price": "5,699.00",
+    "discount": 23
+  },
+  {
+    "_id": "04",
+    "name": "Apple iPhone 13 (128GB) - Green",
+    "picture": "https://drive.google.com/uc?export=view&id=1YSQY7RSFCor3YhfUH1tBjl4dLjebFYE8",
+    "price": "66,900.00",
+    "discount": 16
+  },
+  {
+    "_id": "05",
+    "name": "Samsung Galaxy Tab S8+ - Wifi Only, Graphite",
+    "picture": "https://drive.google.com/uc?export=view&id=17QZBPPTVjApP1VyfP6ySTjqkUfmxO-bH",
+    "price": "74,998.00",
+    "discount": 13
+  },
+  {
+    "_id": "06",
+    "name": "Kodak Mini Shot 3 Retro - Yellow, Bluetooth",
+    "picture": "https://drive.google.com/uc?export=view&id=1AdEmhVm8W6mZRc9mzC9PLyqAAxk54yWy",
+    "price": "74,998.00",
+    "discount": 13
+  }
+]
